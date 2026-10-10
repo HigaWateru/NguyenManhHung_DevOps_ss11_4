@@ -70,8 +70,5 @@ jobs:
 
 ## 4. Hình ảnh minh chứng nộp bài
 
-### Ảnh 1: Khai báo Repository Secret `REGISTRY_TOKEN` thành công:
-![Repository Secrets](image/screenshot_secret.png)
-
-### Ảnh 2: Log bước Đăng nhập Registry hiển thị `Login Succeeded`:
-![Login Succeeded](image/screenshot_login.png)
+### Ảnh màn hình Actions hoàn thành đăng nhập Registry:
+![Registry Login Actions](image/image.png)
